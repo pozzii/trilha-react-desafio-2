@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { InputContainer } from './styles';
+import { InputContainer } from './syles'
 
 function Input({value, onChange}) {
   return (
